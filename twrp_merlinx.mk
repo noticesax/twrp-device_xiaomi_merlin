@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/xiaomi/merlinx/device.mk)
 
 PRODUCT_DEVICE := merlin
-PRODUCT_NAME := twrp_merlin
+PRODUCT_NAME := twrp_merlinx
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := M2003J15SC
 PRODUCT_MANUFACTURER := xiaomi
