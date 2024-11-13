@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/xiaomi/merlin
+LOCAL_PATH := device/xiaomi/merlinx

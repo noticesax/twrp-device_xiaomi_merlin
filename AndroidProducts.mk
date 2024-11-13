@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_merlin.mk
+    $(LOCAL_DIR)/twrp_merlinx.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_merlin-user \
-    omni_merlin-userdebug \
-    omni_merlin-eng
+    twrp_merlinx-user \
+    twrp_merlinx-userdebug \
+    twrp_merlinx-eng
